@@ -757,6 +757,10 @@ fieldset[disabled] .s-btn {
   line-height: 1.6;
 }
 
+.my-custom-icon-class {
+  font-size: 48px; /* Adjust the size as needed */
+}
+
 /*----------------------------------
   Promo Block
 ------------------------------------*/
